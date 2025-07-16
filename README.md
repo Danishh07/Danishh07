@@ -7,8 +7,7 @@
 ---
 
 ### 🚀 About Me
-
-> **Student, Class of 2025**  
+ 
 > Crafting cool stuff with code. Building ideas, breaking limits, learning every day.  
 > Always keen to explore, create, and collaborate!
 
@@ -35,7 +34,7 @@
 ### 📫 Connect with Me
 
 - [GitHub](https://github.com/Danishh07)
-- (Add LinkedIn/Twitter/Portfolio links here!)
+- [Linkedin](https://www.linkedin.com/in/md-danish-alam07/)
 
 ---
 
