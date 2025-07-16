@@ -1,7 +1,7 @@
 <!-- Profile README for Danishh07 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey!+I'm+Danishh07;Student+%7C+Web+%26+AI/ML+Enthusiast;Code.+Create.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey!+I'm+Danishh07;Web+%26+AI/ML+Enthusiast;Code.+Create.+Innovate." alt="Typing SVG" />
 </div>
 
 ---
